@@ -1,0 +1,7 @@
+*.pyc
+.idea/
+/config/sendgrid.env
+/v1/config/localhost.cfg
+.aws-sam/
+v1/
+venv/

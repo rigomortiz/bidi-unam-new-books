@@ -1,5 +1,9 @@
-# API for find books of the National Autonomous University of Mexico (UNAM)
-*Api not official, site web of [libraries of UNAM](http://bibliotecas.unam.mx/)* 
+# API for library of National Autonomous University of Mexico (UNAM)
+
+*Api no official, site web of [BIDI, UNAM](https://www.bidi.unam.mx/mdb/newadq.html)*  
+
+
+This list shows the bibliographic news of April 2020, the complete collection of electronic books consists of 467,011 titles that can be consulted in the eLIBRUNAM catalog.
 
 ## Run
 Build
